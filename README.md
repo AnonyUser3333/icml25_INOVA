@@ -1,7 +1,7 @@
 ## Content
 
 **Resources**
-- Figures (Fig. R 1 ~ Fig._R 4) and Tables (Table_R 1 ~ Table_R 8): [`Figures_and_Tables.pdf`](./Figures_and_Tables.pdf)
+- Figures (Fig. R 1 ~ Fig._R 4) and Tables (Table_R 1 ~ Table_R 8) - [`Figures_and_Tables.pdf`](./Figures_and_Tables.pdf)
 
 **Core Codes**
 - Interaction-Aware Target Generation (ITG) - [`ITG.ipynb`](./ITG.ipynb)
